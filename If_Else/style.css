@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#mylabel{
+    font-size: 2em;
+    font-family: helvetica;
+    color: rgb(72, 0, 255);
+}
+#mytext{
+    padding: 10px 15px;
+}
+#mysubmit{
+    padding: 10px;
+    cursor: pointer;
+}

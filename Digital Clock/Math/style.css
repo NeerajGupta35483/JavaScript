@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#mybtn{
+    font-size: 3em;
+    border-radius:10px;
+    
+    cursor: pointer;
+    font-family:  Verdana;
+    background-color: rgb(179, 236, 209);
+}
+#mybtn:hover{
+    background-color: rgb(37, 229, 139);
+}
+.label{
+ font-size: 3em;
+}
